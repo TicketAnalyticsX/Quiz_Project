@@ -14,4 +14,11 @@ The Quiz Application Project is a Python program designed to create an interacti
    ```bash
    git clone https://github.com/yourusername/repository-name.git
 
+2. Navigate to the project directory:
+   cd repository-name
+
+3. To run the Quiz Application, execute the following command in your terminal:
+   python main.py
+
+
 
